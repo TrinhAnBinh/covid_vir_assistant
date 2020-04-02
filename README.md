@@ -1,5 +1,6 @@
 A small example about virtual assistant like Siri/ Google assistant. By using wolframalpha and wikipedia as references so that please visit  wolframalpha and create application to using it. Be focus on how to use speech_recognition and UI text-to-spech, I hope you can familar with python syntax and love python more.
 How to use it?
+
 0. Please create virtualenv and run 'pip install -r requirements.txt' 
 1. Please  run pip install covid-vir-assistant
 2. Run file __init__.py / covid_vir_assistant.py 
