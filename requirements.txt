@@ -20,7 +20,7 @@ requests==2.23.0
 six==1.14.0
 soupsieve==2.0
 SpeechRecognition==3.8.1
-urllib3==1.25.8
+urllib3==1.26.5
 wikipedia==1.4.0
 wolframalpha==4.0.0
 wxPython==4.0.7.post2
