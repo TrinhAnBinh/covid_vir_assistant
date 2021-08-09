@@ -15,7 +15,7 @@ py-espeak-ng==0.1.8
 PyAudio==0.2.11
 pyttsx==1.1
 pyttsx3==2.87
-pywin32==227
+pywin32==301
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
